@@ -1,0 +1,8 @@
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+.cursor/
+.vscode/
+agent-transcripts/
+php/config.local.php
